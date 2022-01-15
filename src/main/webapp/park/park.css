@@ -1,0 +1,31 @@
+.park{
+	width:100%;
+	
+}
+
+.park1{
+	width:50%;
+	
+	border-radius: 20px 20px 20px 20px;
+	
+}
+
+
+
+.park2{
+	width:50%;
+	border-radius: 20px 20px 20px 20px;
+}
+
+
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+
+
+*{
+	font-family: "Nanum Gothic";
+}
+
+h1{
+	font-family:"Hanna";
+}
